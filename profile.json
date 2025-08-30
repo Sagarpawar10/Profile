@@ -1,0 +1,66 @@
+{
+  "siteName": "Sagar's Creative Profile",
+  "name": "Sagar Pawar",
+  "tagline": "Full\u2011stack learner",
+  "about": "I'm an MCA student passionate about building clean, useful web apps. I enjoy JavaScript, Node.js, and turning ideas into working prototypes.",
+  "skills": [
+    "Node.js",
+    "Express",
+    "JavaScript (ES6+)",
+    "HTML5 & CSS3",
+    "EJS",
+    "Git",
+    "DBMS Basics"
+  ],
+  "education": [
+    {
+      "title": "MCA",
+      "institute": "Sri Balaji University Pune (SBUP)",
+      "year": "2025"
+    },
+    {
+      "title": "B.Sc.(IT)",
+      "institute": "MGM University",
+      "year": "2024"
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Clean UI",
+      "text": "A minimal, modern aesthetic with focus on content."
+    },
+    {
+      "title": "Middleware Demo",
+      "text": "App-level logger + data injection across views."
+    },
+    {
+      "title": "Modular Structure",
+      "text": "Routes, views, and assets separated cleanly."
+    }
+  ],
+  "projects": [
+    {
+      "name": "MaidEasy",
+      "description": "A concept web app for booking maids by the hour with secure profiles and location search.",
+      "demo": "",
+      "repo": ""
+    },
+    {
+      "name": "Pradip Pawar Films Site",
+      "description": "A simple, responsive website for a production company.",
+      "demo": "",
+      "repo": ""
+    },
+    {
+      "name": "Hospital Management System",
+      "description": "A web-based application designed to manage hospital operations efficiently.",
+      "demo": "",
+      "repo": ""
+    }
+  ],
+  "socials": {
+    "GitHub": "https://github.com/Sagarpawar10",
+    "LinkedIn": "https://www.linkedin.com/in/sagar-pawar-90782724b/"
+    
+  }
+}

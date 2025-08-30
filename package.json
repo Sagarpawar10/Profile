@@ -1,0 +1,25 @@
+{
+  "name": "creative-profile",
+  "version": "1.0.0",
+  "description": "A creative profile website built with Node.js, Express, and middleware. Includes at least 3 pages.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "express",
+    "profile",
+    "middleware",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "ejs": "^3.1.10"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
